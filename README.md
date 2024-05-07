@@ -6,3 +6,5 @@
 5.[Lab-05](https://github.com/2203A51631/AIML-LAB-2024/blob/main/Lab_05.ipynb)
 
 [Project_using_RFC](https://github.com/2203A51631/AIML-LAB-2024/blob/main/ProjectusingRFC.ipynb)
+
+[project_using_KNN](https://github.com/2203A51631/AIML-LAB-2024/blob/main/Projectusingknn.ipynb)
