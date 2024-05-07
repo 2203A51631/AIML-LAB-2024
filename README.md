@@ -10,4 +10,3 @@
 
 [project_using_KNN](https://github.com/2203A51631/AIML-LAB-2024/blob/main/Projectusingknn.ipynb)
 
-[Lab-06](https://github.com/2203A51631/AIML-LAB-2024/blob/main/Lab_06.ipynb)
